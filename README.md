@@ -19,5 +19,5 @@ GOERLI_ETHERSCAN_API_KEY="Your etherscan api key"
 ```shell
 yarn install
 yarn run deploy --network goerli
-yarn run verify --network goerli <AssetManagerV2 contract address>
+yarn run verify --network goerli "AssetManagerV2 contract address"
 ```
